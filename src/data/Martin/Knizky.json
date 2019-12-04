@@ -1,0 +1,322 @@
+{
+  "books": [
+    {
+      "name": "Literatura faktu",
+      "image": "",
+      "data": [
+        {
+          "title": "Jak získávat přátele a působit na lidi",
+          "author": "Dale Carnegie",
+          "url": "https://www.megaknihy.cz/psychologie/152511-jak-ziskavat-pratele-a-pusobit-na-lidi.html"
+        },
+        {
+          "title": "Umění vítězit",
+          "author": "Phil Knight",
+          "url": "https://www.megaknihy.cz/biografie/298800-umeni-vitezit.html"
+        },
+        {
+          "title": "Důmyslné umění, jak mít všechno u prdele",
+          "author": "Mark Manson",
+          "url": "https://www.megaknihy.cz/romany-beletrie/300595-dumyslne-umeni-jak-mit-vsechno-u-prdele.html"
+        },
+        {
+          "title": "Leonardo da Vinci",
+          "author": "Walter Isaacson",
+          "url": "https://www.megaknihy.cz/vytvarne-umeni/323504-leonardo-da-vinci.html"
+        },
+        {
+          "title": "Lean Startup",
+          "author": "Eric Ries",
+          "url": "https://www.megaknihy.cz/podnikani/215487-lean-startup.html"
+        },
+        {
+          "title": "Mít vše hotovo",
+          "author": "David Allen",
+          "url": "https://www.megaknihy.cz/kariera/248329-mit-vse-hotovo.html"
+        },
+        {
+          "title": "Esencialismus",
+          "author": "Greg McKeown",
+          "url": "https://www.kosmas.cz/knihy/205514/esencialismus"
+        },
+        {
+          "title":  "Ego je váš nepřítel",
+          "author": "Ryan Holiday",
+          "url": "https://www.megaknihy.cz/motivace-podnikani/271780-ego-je-vas-nepritel.html"
+        },
+        {
+          "title": "48 zákonů moci",
+          "author": "Robert Greene",
+          "url": "https://www.megaknihy.cz/rozvoj-osobnosti/261194-48-zakonu-moci.html"
+        },
+        {
+          "title": "Válka umění",
+          "author": "Steven Pressfield",
+          "url": "https://www.megaknihy.cz/kariera/300278-valka-umeni.html"
+        },
+        {
+          "title": "Zrozen k běhu",
+          "author": "Christopher McDougall",
+          "url": "https://www.megaknihy.cz/svetove/74700-zrozen-k-behu.html"
+        },
+        {
+          "title": "Mžik",
+          "author": "Malcolm Gladwell",
+          "url": "https://www.megaknihy.cz/psychologie/44075-mzik.html"
+        },
+        {
+          "title": "Bytí a čas",
+          "author": "Martin Heidegger",
+          "url": "https://www.megaknihy.cz/nabozenstvi/312334-byti-a-cas.html"
+        },
+        {
+          "title": "12 pravidel pro život",
+          "author": "Jordan Peterson",
+          "url": "https://www.megaknihy.cz/romany-povidky-novely/345820-12-pravidel-pro-zivot.html"
+        },
+        {
+          "title": "Proč spíme",
+          "author": "Matthew Walker",
+          "url": "https://www.megaknihy.cz/rodina-vztahy/323269-proc-spime.html"
+        },
+        {
+          "title": "Myšlení rychlé a pomalé",
+          "author": "Daniel Kahneman",
+          "url": "https://www.megaknihy.cz/rozvoj-osobnosti/206511-mysleni-rychle-a-pomale.html"
+        },
+        {
+          "title": "Překážka jako výzva",
+          "author": "Ryan Holiday",
+          "url": "https://www.knihydobrovsky.cz/prekazka-jako-vyzva-657108"
+        },
+        {
+          "title": "Bohatý táta, chudý táta",
+          "author": "Robert Kiyosaki",
+          "url": "https://www.knihydobrovsky.cz/bohaty-tata-chudy-tata-193058054"
+        },
+        {
+          "title": "Restart",
+          "author": "David Heinemeier Hansson and Jason Fried",
+          "url": "https://www.megaknihy.cz/ekonomie/206501-restart.html"
+        },
+        {
+          "title": "Radikální otevřenost",
+          "author": "Kim Scott",
+          "url": "https://www.megaknihy.cz/podnikani/315085-radikalni-otevrenost.html"
+        },
+        {
+          "title": "Faktomluva",
+          "author": "Anna Rosling Rönnlund, Hans Rosling and Ola Rosling",
+          "url": "https://www.megaknihy.cz/sociologie-etnologie/328771-faktomluva.html"
+        },
+        {
+          "title": "Flow",
+          "author": "Mihaly Csikszentmihalyi",
+          "url": "https://www.megaknihy.cz/romany-beletrie/216827-flow.html"
+        },
+        {
+          "title": "Před-svědčování",
+          "author": "Robert B. Cialdini",
+          "url": "https://www.megaknihy.cz/rodina-vztahy/262754-pred-svedcovani.html"
+        },
+        {
+          "title": "Metafory, kterými žijeme",
+          "author": "George Lakoff and Mark Johnson",
+          "url": "https://www.knihydobrovsky.cz/metafory-kterymi-zijeme-598740"
+        },
+        {
+          "title": "Mimo řadu",
+          "author": "Malcolm Gladwell",
+          "url": "https://www.megaknihy.cz/rozvoj-osobnosti/193807-mimo-radu.html"
+        },
+        {
+          "title": "Kraď jako umělec",
+          "author": "Austin Kleon",
+          "url": "https://www.megaknihy.cz/biografie/206510-krad-jako-umelec.html"
+        },
+        {
+          "title": "Odvaha nebýt oblíbený",
+          "author": "Fumitake Koga and Ichirō Kishimi",
+          "url": "https://www.megaknihy.cz/rozvoj-osobnosti/303768-odvaha-nebyt-oblibeny.html"
+        },
+        {
+          "title": "Bůh maličkostí",
+          "author": "Arundhati Roy",
+          "url": "https://www.megaknihy.cz/spolecenske/253619-buh-malickosti.html"
+        },
+        {
+          "title": "Poslední přednáška",
+          "author": "Jeffrey Zaslow and Randy Pausch",
+          "url": "https://www.megaknihy.cz/romany-beletrie/59317-posledni-prednaska.html"
+        },
+        {
+          "title": "Zázračný úklid - Pořádek jednou provždy",
+          "author": "Marie Kondō",
+          "url": "https://www.megaknihy.cz/psychologie/217060-zazracny-uklid-poradek-jednou-provzdy.html"
+        },
+        {
+          "title": "Myslete velkoryse",
+          "author": "David J. Schwartz",
+          "url": "https://www.knihydobrovsky.cz/myslete-velkoryse-budete-mit-uspech-86693555"
+        },
+        {
+          "title": "Moc přítomného okamžiku",
+          "author": "Eckhart Tolle",
+          "url": "https://www.megaknihy.cz/esoterika/261582-moc-pritomneho-okamziku.html"
+        },
+        {
+          "title": "Myšlením k bohatství",
+          "author": "Ben Holden-Crowther and Napoleon Hill",
+          "url": "https://www.databazeknih.cz/knihy/myslenim-k-bohatstvi-36216"
+        },
+        {
+          "title": "Zen a umění údržby motocyklu",
+          "author": "Robert Pirsig",
+          "url": "https://www.megaknihy.cz/ostatni-nabozenstvi/301979-zen-a-umeni-udrzby-motocyklu.html"
+        },
+        {
+          "title": "Čtyři dohody",
+          "author": "Don Miguel Ruiz",
+          "url": "https://www.knihydobrovsky.cz/ctyri-dohody-4830522"
+        }
+      ]
+    },
+    {
+      "name": "Beletrie",
+      "image": "",
+      "data": [
+        {
+          "title": "Umění války",
+          "author": "Sun Tzu",
+          "url": "https://www.luxor.cz/product/umeni-valky-zbo000204474"
+        },
+        {
+          "title": "Nejbohatší muž v Babyloně",
+          "author": "George Samuel Clason",
+          "url": "https://www.megaknihy.cz/psychologie/307888-nejbohatsi-muz-v-babylone.html"
+        },
+        {
+          "title": "Cizinec",
+          "author": "Albert Camus",
+          "url": "https://www.megaknihy.cz/zaliby/190645-cizinec.html"
+        },
+        {
+          "title": "Děvčátko Momo a ukradený čas",
+          "author": "Michael Ende",
+          "url": "https://melcer.cz/kniha/ende-michael-devcatko-momo-a-ukradeny-cas-pohadkovy-roman-1979"
+        },
+        {
+          "title": "Strach a svrab v Las Vegas",
+          "author": "Hunter S. Thompson",
+          "url": "https://www.megaknihy.cz/romany-beletrie/40274-strach-a-svrab-v-las-vegas.html"
+        },
+        {
+          "title": "Ten, kdo stojí v koutě",
+          "author": "Stephen Chbosky",
+          "url": "https://www.megaknihy.cz/spolecenske/243768-ten-kdo-stoji-v-koute.html"
+        },
+        {
+          "title": "Bídníci",
+          "author": "Victor Hugo",
+          "url": "https://www.databazeknih.cz/knihy/bidnici-139333"
+        },
+        {
+          "title": "Kdo chytá v žitě",
+          "author": "J. D. Salinger",
+          "url": "https://www.megaknihy.cz/svetove/223817-kdo-chyta-v-zite.html"
+        },
+        {
+          "title": "Kolíbka",
+          "author": "Kurt Vonnegut",
+          "url": "https://melcer.cz/kniha/vonnegut-kurt-jr-kolibka-1976"
+        },
+        {
+          "title": "Zločin a trest",
+          "author": "Fyodor Dostoevsky",
+          "url": "https://www.megaknihy.cz/klasicke/213158-zlocin-a-trest.html"
+        },
+        {
+          "title": " Na východ od ráje",
+          "author": "John Steinbeck",
+          "url": "https://www.megaknihy.cz/romany-beletrie/13605-na-vychod-od-raje.html"
+        },
+        {
+          "title": "Dokud nemáme tvář",
+          "author": "C. S. Lewis",
+          "url": "https://www.megaknihy.cz/romanticke/261372-dokud-nemame-tvar.html"
+        },
+        {
+          "title": "Alchymista",
+          "author": "Paulo Coelho",
+          "url": "https://www.megaknihy.cz/romany-beletrie/173500-alchymista.html"
+        },
+        {
+          "title": "Stopařův průvodce Galaxií",
+          "author": "Douglas Adams",
+          "url": "https://www.databazeknih.cz/knihy/stoparuv-pruvodce-galaxii-stoparuv-pruvodce-galaxii-3996"
+        },
+        {
+          "title": "Atlasova vzpoura",
+          "author": "Ayn Rand",
+          "url": "https://www.megaknihy.cz/sci-fi/186418-atlasova-vzpoura.html"
+        },
+        {
+          "title": "Duna",
+          "author": "Frank Herbert",
+          "url": "https://www.databazeknih.cz/knihy/duna-duna-29765"
+        },
+        {
+          "title": "Hovory k sobě",
+          "author": "Marcus Aurelius",
+          "url": "https://www.megaknihy.cz/romany-beletrie/158704-hovory-k-sobe.html"
+        },
+        {
+          "title": "Vyděděnec",
+          "author": "Ursula K. Le Guin",
+          "url": "https://www.databazeknih.cz/kniha-v-bazaru/hain-vydedenec-42515"
+        },
+        {
+          "title": "Svět se rozpadá",
+          "author": "Chinua Achebe",
+          "url": "https://www.luxor.cz/product/svet-se-rozpada-zbo000255111"
+        }
+      ]
+    },
+    {
+      "name": "Untranslated",
+      "image": "",
+      "data": [
+        {
+          "title": "Creativity, Inc.",
+          "author": "Ed Catmull",
+          "url": "https://www.megaknihy.cz/podnikani/5392421-creativity-inc.html"
+        },
+        {
+          "title": "Atomové zvyky",
+          "author": "James Clear",
+          "url": "https://www.megaknihy.cz/rozvoj-osobnosti/389405-atomove-navyky.html"
+        },
+        {
+          "title": "Creative Confidence",
+          "author": "David and Tom Kelley",
+          "url": "https://www.megaknihy.cz/architektura-design/5388693-creative-confidence.html"
+        },
+        {
+          "title": "How to Be a Graphic Designer without Losing Your Soul",
+          "author": "Adrian Shaughnessy",
+          "url": "https://www.megaknihy.cz/kultura-umeni/20009460-how-to-be-a-graphic-designer-without-losing-your-soul.html"
+        },
+        {
+          "title": "Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs",
+          "author": "John Doerr",
+          "url": "https://www.megaknihy.cz/podnikani/5577102-measure-what-matters.html"
+        },
+        {
+          "title": "The Messy Middle: Finding Your Way Through the Hardest and Most Crucial Part of Any Bold Venture",
+          "author": "Scott Belsky",
+          "url": "https://www.megaknihy.cz/podnikani/20378165-the-messy-middle.html"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "furniture": [
+    {
+      "name": "Nábytek",
+      "image": "https://www.svojtka.cz/img/product/preview/14595.jpg",
+      "data": [
+        {
+          "title": "Zrcadlo",
+          "url": "https://www.xxxlutz.cz/p/boxxx-zrcadlo-39-110-0-3-cm-002757000801"
+        },
+        {
+          "title": "Úložný prostor",
+          "url": "https://www.ikea.com/cz/cs/catalog/products/50305739/"
+        }
+      ]
+    }
+  ]
+}
