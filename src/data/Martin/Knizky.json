@@ -191,11 +191,6 @@
       "image": "",
       "data": [
         {
-          "title": "Umění války",
-          "author": "Sun Tzu",
-          "url": "https://www.luxor.cz/product/umeni-valky-zbo000204474"
-        },
-        {
           "title": "Nejbohatší muž v Babyloně",
           "author": "George Samuel Clason",
           "url": "https://www.megaknihy.cz/psychologie/307888-nejbohatsi-muz-v-babylone.html"
@@ -204,11 +199,6 @@
           "title": "Cizinec",
           "author": "Albert Camus",
           "url": "https://www.megaknihy.cz/zaliby/190645-cizinec.html"
-        },
-        {
-          "title": "Děvčátko Momo a ukradený čas",
-          "author": "Michael Ende",
-          "url": "https://melcer.cz/kniha/ende-michael-devcatko-momo-a-ukradeny-cas-pohadkovy-roman-1979"
         },
         {
           "title": "Strach a svrab v Las Vegas",
@@ -241,19 +231,9 @@
           "url": "https://www.megaknihy.cz/klasicke/213158-zlocin-a-trest.html"
         },
         {
-          "title": " Na východ od ráje",
-          "author": "John Steinbeck",
-          "url": "https://www.megaknihy.cz/romany-beletrie/13605-na-vychod-od-raje.html"
-        },
-        {
           "title": "Dokud nemáme tvář",
           "author": "C. S. Lewis",
           "url": "https://www.megaknihy.cz/romanticke/261372-dokud-nemame-tvar.html"
-        },
-        {
-          "title": "Alchymista",
-          "author": "Paulo Coelho",
-          "url": "https://www.megaknihy.cz/romany-beletrie/173500-alchymista.html"
         },
         {
           "title": "Stopařův průvodce Galaxií",
@@ -279,6 +259,21 @@
           "title": "Svět se rozpadá",
           "author": "Chinua Achebe",
           "url": "https://www.luxor.cz/product/svet-se-rozpada-zbo000255111"
+        },
+        {
+          "title": "Cestou necestou českou krajinou",
+          "author": "Václav Větvička",
+          "url": "https://www.databazeknih.cz/knihy/cestou-necestou-ceskou-krajinou-220752"
+        },
+        {
+          "title": "Vltava",
+          "author": "Václav Větvička",
+          "url": "https://www.databazeknih.cz/knihy/vltava-19361"
+        },
+        {
+          "title": "Svět vědy a víry",
+          "author": "Jiří Grygar",
+          "url": "https://www.databazeknih.cz/knihy/svet-vedy-a-viry-284687"
         }
       ]
     },
