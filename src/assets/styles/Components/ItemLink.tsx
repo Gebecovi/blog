@@ -1,19 +1,15 @@
-import { CSSProperties } from 'react';
+import { CSSProperties } from "react";
 
 const text: CSSProperties = {
-  color: 'DarkSlateGray ',
-  fontSize: '1em'
-}
+  color: "DarkSlateGray ",
+  fontSize: "1em"
+};
 
-const link: CSSProperties = {
-
-}
+const link: CSSProperties = {};
 
 const ItemLinkStyles = {
   text,
   link
-}
+};
 
 export default ItemLinkStyles;
-
-

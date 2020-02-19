@@ -1,30 +1,33 @@
-import React, { FunctionComponent, ReactElement } from 'react';
-import AppStyles from './assets/styles/Pages/App';
+import React, { FunctionComponent, ReactElement } from "react";
+import AppStyles from "./assets/styles/Pages/App";
 
-import { AppImage, ItemLink } from './Components';
+import { AppImage, ItemLink } from "./Components";
 
-import * as MartinJson from './data/Martin/Knizky.json';
-import * as OndraJson from './data/Ondra/Nabytek.json';
+import * as MartinJson from "./data/Martin/Knizky.json";
+import * as OndraJson from "./data/Ondra/Nabytek.json";
 
 type jsonDataType = {
-  "name": string;
-  "image": string;
-  "data": {
-      "title": string;
-      "author"?: string;
-      "url": string;
+  name: string;
+  image: string;
+  data: {
+    title: string;
+    author?: string;
+    url: string;
   }[];
-}
+};
 
 const App: FunctionComponent = (): ReactElement => {
-
   const renderData: FunctionComponent<jsonDataType> = (data): ReactElement => (
     <div>
       <h2>{data.name}</h2>
       {data.image && <AppImage url={data.image} />}
-      <ul>{data.data.map(row => <ItemLink data={row} />)}</ul>
+      <ul>
+        {data.data.map(row => (
+          <ItemLink data={row} key={row.title} />
+        ))}
+      </ul>
     </div>
-  )
+  );
 
   return (
     <div style={AppStyles.wrapper}>
@@ -38,6 +41,6 @@ const App: FunctionComponent = (): ReactElement => {
       </div>
     </div>
   );
-}
+};
 
 export default App;

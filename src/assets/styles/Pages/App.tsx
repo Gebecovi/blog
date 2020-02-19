@@ -1,17 +1,17 @@
-import { CSSProperties } from 'react';
+import { CSSProperties } from "react";
 
 const wrapper: CSSProperties = {
-  color: 'DarkSlateGray '
-}
+  color: "DarkSlateGray "
+};
 
 const header: CSSProperties = {
-  color: 'black',
-  fontSize: '2em',
-}
+  color: "black",
+  fontSize: "2em"
+};
 
 const App = {
   wrapper,
-  header,
-}
+  header
+};
 
 export default App;

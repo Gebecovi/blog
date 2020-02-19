@@ -1,2 +1,2 @@
-export * from './_AppImage';
-export * from './_ItemLink';
+export * from "./_AppImage";
+export * from "./_ItemLink";
