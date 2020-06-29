@@ -5,19 +5,9 @@
       "image": "",
       "data": [
         {
-          "title": "Doba jedová",
-          "author": "Anna Strunecká, Jiří Patočka",
-          "url": "https://www.majka-shop.cz/doba-jedova-anna-strunecka-a-jiri-patocka-kosmas/#1586982"
-        },
-        {
           "title": "Jak získávat přátele a působit na lidi",
           "author": "Dale Carnegie",
           "url": "https://www.megaknihy.cz/psychologie/152511-jak-ziskavat-pratele-a-pusobit-na-lidi.html"
-        },
-        {
-          "title": "Umění vítězit",
-          "author": "Phil Knight",
-          "url": "https://www.megaknihy.cz/biografie/298800-umeni-vitezit.html"
         },
         {
           "title": "Důmyslné umění, jak mít všechno u prdele",
@@ -33,11 +23,6 @@
           "title": "Lean Startup",
           "author": "Eric Ries",
           "url": "https://www.megaknihy.cz/podnikani/215487-lean-startup.html"
-        },
-        {
-          "title": "Mít vše hotovo",
-          "author": "David Allen",
-          "url": "https://www.megaknihy.cz/kariera/248329-mit-vse-hotovo.html"
         },
         {
           "title": "Esencialismus",
@@ -80,11 +65,6 @@
           "url": "https://www.megaknihy.cz/romany-povidky-novely/345820-12-pravidel-pro-zivot.html"
         },
         {
-          "title": "Proč spíme",
-          "author": "Matthew Walker",
-          "url": "https://www.megaknihy.cz/rodina-vztahy/323269-proc-spime.html"
-        },
-        {
           "title": "Myšlení rychlé a pomalé",
           "author": "Daniel Kahneman",
           "url": "https://www.megaknihy.cz/rozvoj-osobnosti/206511-mysleni-rychle-a-pomale.html"
@@ -93,11 +73,6 @@
           "title": "Překážka jako výzva",
           "author": "Ryan Holiday",
           "url": "https://www.knihydobrovsky.cz/prekazka-jako-vyzva-657108"
-        },
-        {
-          "title": "Bohatý táta, chudý táta",
-          "author": "Robert Kiyosaki",
-          "url": "https://www.knihydobrovsky.cz/bohaty-tata-chudy-tata-193058054"
         },
         {
           "title": "Restart",
@@ -140,16 +115,6 @@
           "url": "https://www.megaknihy.cz/biografie/206510-krad-jako-umelec.html"
         },
         {
-          "title": "Odvaha nebýt oblíbený",
-          "author": "Fumitake Koga and Ichirō Kishimi",
-          "url": "https://www.megaknihy.cz/rozvoj-osobnosti/303768-odvaha-nebyt-oblibeny.html"
-        },
-        {
-          "title": "Bůh maličkostí",
-          "author": "Arundhati Roy",
-          "url": "https://www.megaknihy.cz/spolecenske/253619-buh-malickosti.html"
-        },
-        {
           "title": "Poslední přednáška",
           "author": "Jeffrey Zaslow and Randy Pausch",
           "url": "https://www.megaknihy.cz/romany-beletrie/59317-posledni-prednaska.html"
@@ -175,14 +140,14 @@
           "url": "https://www.databazeknih.cz/knihy/myslenim-k-bohatstvi-36216"
         },
         {
-          "title": "Zen a umění údržby motocyklu",
-          "author": "Robert Pirsig",
-          "url": "https://www.megaknihy.cz/ostatni-nabozenstvi/301979-zen-a-umeni-udrzby-motocyklu.html"
+          "title": "Tak dobří, že vás nepřehlédnou",
+          "author": "Cal Newport",
+          "url": "https://www.megaknihy.cz/ucetnictvi/309848-tak-dobri-ze-vas-neprehlednou.html"
         },
         {
-          "title": "Čtyři dohody",
-          "author": "Don Miguel Ruiz",
-          "url": "https://www.knihydobrovsky.cz/ctyri-dohody-4830522"
+          "title": "Vliv: Síla přesvědčování a manipulace",
+          "author": "Robert B. Cialdini",
+          "url": "https://www.databazeknih.cz/knihy/vliv-sila-presvedcovani-a-manipulace-185251"
         }
       ]
     },
@@ -190,11 +155,6 @@
       "name": "Beletrie",
       "image": "",
       "data": [
-        {
-          "title": "Nejbohatší muž v Babyloně",
-          "author": "George Samuel Clason",
-          "url": "https://www.megaknihy.cz/psychologie/307888-nejbohatsi-muz-v-babylone.html"
-        },
         {
           "title": "Cizinec",
           "author": "Albert Camus",
@@ -206,11 +166,6 @@
           "url": "https://www.megaknihy.cz/romany-beletrie/40274-strach-a-svrab-v-las-vegas.html"
         },
         {
-          "title": "Ten, kdo stojí v koutě",
-          "author": "Stephen Chbosky",
-          "url": "https://www.megaknihy.cz/spolecenske/243768-ten-kdo-stoji-v-koute.html"
-        },
-        {
           "title": "Bídníci",
           "author": "Victor Hugo",
           "url": "https://www.databazeknih.cz/knihy/bidnici-139333"
@@ -219,11 +174,6 @@
           "title": "Kdo chytá v žitě",
           "author": "J. D. Salinger",
           "url": "https://www.megaknihy.cz/svetove/223817-kdo-chyta-v-zite.html"
-        },
-        {
-          "title": "Kolíbka",
-          "author": "Kurt Vonnegut",
-          "url": "https://melcer.cz/kniha/vonnegut-kurt-jr-kolibka-1976"
         },
         {
           "title": "Zločin a trest",
@@ -239,11 +189,6 @@
           "title": "Stopařův průvodce Galaxií",
           "author": "Douglas Adams",
           "url": "https://www.databazeknih.cz/knihy/stoparuv-pruvodce-galaxii-stoparuv-pruvodce-galaxii-3996"
-        },
-        {
-          "title": "Atlasova vzpoura",
-          "author": "Ayn Rand",
-          "url": "https://www.megaknihy.cz/sci-fi/186418-atlasova-vzpoura.html"
         },
         {
           "title": "Duna",
@@ -264,11 +209,6 @@
           "title": "Cestou necestou českou krajinou",
           "author": "Václav Větvička",
           "url": "https://www.databazeknih.cz/knihy/cestou-necestou-ceskou-krajinou-220752"
-        },
-        {
-          "title": "Vltava",
-          "author": "Václav Větvička",
-          "url": "https://www.databazeknih.cz/knihy/vltava-19361"
         },
         {
           "title": "Svět vědy a víry",
@@ -310,6 +250,11 @@
           "title": "The Messy Middle: Finding Your Way Through the Hardest and Most Crucial Part of Any Bold Venture",
           "author": "Scott Belsky",
           "url": "https://www.megaknihy.cz/podnikani/20378165-the-messy-middle.html"
+        },
+        {
+          "title": "Cracking the Coding Interview",
+          "author": "Laakmann McDowell Gayle",
+          "url": "https://www.megaknihy.cz/programovani/20135803-cracking-the-coding-interview.html"
         }
       ]
     }
